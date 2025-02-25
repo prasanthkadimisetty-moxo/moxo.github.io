@@ -1,3 +1,11 @@
-#mxBody{
- background-color: green !important;
+#binder_detail_area{
+ background: green !important;
+ color: white !important;
+ font-family: cursive !important;
+ 
 }
+
+#mx-chat-content-wrap{
+ background: black !important;
+}
+
